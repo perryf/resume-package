@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/perryf/resume-package#readme",
   "dependencies": {
-    "colors": "^1.1.2"
+    "cfonts": "^1.1.3"
   }
 }

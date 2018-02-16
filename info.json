@@ -1,11 +1,12 @@
 {
-    "name": "Perry Fustero",
-    "website": "https://perryf.github.io/",
-    "linkedin": "https://www.linkedin.com/messaging/thread/6370015072009355264/",
-    "github": "perryf",
+    "firstName": "Perry",
+    "lastName": "Fustero",
     "email": "pjfust@gmail.com",
+    "website": "https://perryf.github.io/",
+    "github": "perryf",
     "resume": "https://perryf.github.io/img/resume-fustero.pdf",
-    "proficient-technologies": [
+    "linkedin": "https://www.linkedin.com/in/perry-fustero-0539bb19/",
+    "proficientTechnologies": [
         "html", 
         "css", 
         "javascript", 
@@ -17,7 +18,7 @@
         "node", 
         "mongodb"
     ],
-    "other-skills": [
+    "otherSkills": [
         "teaching",
         "piano"
     ]
