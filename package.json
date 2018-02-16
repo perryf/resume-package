@@ -6,6 +6,9 @@
   "scripts": {
     "test": "cat info.json"
   },
+  "bin": {
+    "perryf": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/perryf/resume-package.git"
