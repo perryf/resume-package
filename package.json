@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/perryf/resume-package/issues"
   },
-  "homepage": "https://github.com/perryf/resume-package#readme"
+  "homepage": "https://github.com/perryf/resume-package#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
 }
