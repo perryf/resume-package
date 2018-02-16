@@ -1,0 +1,24 @@
+{
+  "name": "perryf",
+  "version": "6.6.6",
+  "description": "my resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "cat info.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perryf/resume-package.git"
+  },
+  "keywords": [
+    "resume",
+    "perry",
+    "perryf"
+  ],
+  "author": "perry fustero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perryf/resume-package/issues"
+  },
+  "homepage": "https://github.com/perryf/resume-package#readme"
+}

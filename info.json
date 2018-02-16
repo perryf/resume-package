@@ -1,0 +1,24 @@
+{
+    "name": "Perry Fustero",
+    "website": "https://perryf.github.io/",
+    "linkedin": "https://www.linkedin.com/messaging/thread/6370015072009355264/",
+    "github": "perryf",
+    "email": "pjfust@gmail.com",
+    "resume": "https://perryf.github.io/img/resume-fustero.pdf",
+    "proficient-technologies": [
+        "html", 
+        "css", 
+        "javascript", 
+        "react", 
+        "angular", 
+        "mern", 
+        "mean",
+        "sql",
+        "node", 
+        "mongodb"
+    ],
+    "other-skills": [
+        "teaching",
+        "piano"
+    ]
+}
