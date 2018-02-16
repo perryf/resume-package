@@ -1,6 +1,6 @@
 {
   "name": "perryf",
-  "version": "6.6.6",
+  "version": "0.1.0",
   "description": "my resume",
   "main": "index.js",
   "scripts": {
