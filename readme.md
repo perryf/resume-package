@@ -1,6 +1,6 @@
 # Perry Fustero Resume
 
-## What is this?
+## What is This?
 * An npm package to display my resume!
 
 ## How to Run
