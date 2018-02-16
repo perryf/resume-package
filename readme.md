@@ -7,3 +7,6 @@
 * To install run `npm i -g perryf` on your command line
 * Then type `perryf`
 * Voila! what a beautiful resume!
+
+## Tech
+javascript, cfonts!
