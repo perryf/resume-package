@@ -5,5 +5,6 @@ fs.readFile(`${__dirname}/info.json`, 'utf8', function(err, data) {
         console.log(err)
     } else {
         console.log(data)
+        return data
     }
 })

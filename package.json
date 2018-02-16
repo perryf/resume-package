@@ -7,7 +7,7 @@
     "test": "cat info.json"
   },
   "bin": {
-    "perryf": "index.js"
+    "perryf": "./index.js"
   },
   "repository": {
     "type": "git",
